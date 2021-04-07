@@ -1,3 +1,6 @@
+# habr post --> https://habr.com/ru/post/305400/
+
+
 # Ansible tutorial
 
 This tutorial presents Ansible step-by-step. You'll need to have a (virtual or
